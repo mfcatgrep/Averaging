@@ -159,7 +159,7 @@ Another interesting thing affirmed in the web page <a href="https://petapixel.co
 
 ## 4. Special thanks
 
-I want to thanks to <a href="https://notoapps.firebaseapp.com/">Federico Noto</a> that provided to me some photos to test and also to  encourage me to make this script ( Do you remember the story at the beginning of this Readme? Well, he was  the friend)
+I want to thanks to <a href="https://notoapps.firebaseapp.com/">Federico Noto</a> that provided to me some photos to test, helped to me to test the script and mainly due to he  encouraged me to make this script ( Do you remember the story at the beginning of this Readme? Well, he was  the friend)
 
 ## 5. TODO
 
