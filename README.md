@@ -2,9 +2,9 @@
 
 # Averaging
 
-_GIt under construction_
+_GIT under construction_
 
-Averaging is a very simple program , built in Python , to average a stack of images.  Averaging , average similar images, removing the annoying noise (or grain) in photos to obtaining a more smoother result.
+Averaging is a very simple program , built in Python , to average a stack of images.  Averaging , averages similar images, removing the annoying noise (or grain) in photos to obtaining a more smoother result.
 
 An example of this may be observed in the following image.
 
